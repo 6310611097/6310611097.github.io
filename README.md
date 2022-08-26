@@ -13,7 +13,7 @@
 	</p>
 	
 	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src ="https://lh3.googleusercontent.com/B8IV38XRgjWnSBHsaKZUktK_b3XMTTdL-Nmn1xdUoUDgqpo8QLCxQShvezrRUWub-JlUKm04ySOJUkBpkniY0JxlhUcieST-KTCA5CFxFHxbEZV2NKcVFvPPpenL_kajexEaFD7WVjCY0V-lAorKsuVib6D2Q82CtaCDntECWgYUlwebWc8pUD7VVjtZ0OqN8aLoh5aX7HDXQYJpEFYUVroPFU62_AjVe4MdPFdEiqjLnr8HjmoKLG8D5R-Nv5RGTg9LV1ciihDipd4F8_Bw5vVao8zfeibA_z8GzDp6HrZ2_2kcjET_jlgZJxnUKCfItTnyCphlCGzHegKVRMaEwJ5E5ETmPnIqgMEev88HvZnRDklm-sUFjCOA8nseIl2wmTmfl_b0FU8VpouqpJPlspdoG2bvWUzVxm-82SDFGuhO0TajowDQVzCyfAUq8vQoPfJYSOi9KlHhW4IDiLPKsrrpWoJYgRoJjaWgjQ6duE_DPIRciLvGoebYeVZds3b-X1nPmb-XqIg_eQ3TekWGvStbjpmE-xYqaz_d7Cnq98MhNyI9XV_ZPobw0rLKUdB1rgc9oCr1EaSKo6EESNkutZo90qihV44RMKJccuRl33LA4p8dNwIZtat3j1pN0ufMOb-zdYmxFOdL0lE3UeYjhtsSjh7d3qvF7vv5Jls2rkN9kzkRa5t1V9Vg0_GLWsK1lOsRfub_xS1AwD8jFN_L8wyd0Khp04a2tEiUnZLqjbnoGR5tE9ue6tEnQ0M6NGLcpDrkZ-DOEnN9df6fbq2HJfDaGaqe8nX4wbbN=w670-h893-no?authuser=0"
+	<img src ="https://photos.app.goo.gl/HteDY4EE2UZtdRvJ7"
 	style="width: 20%;text-align:center;"></p>
 	
 	<p style="font-size:105%;">
