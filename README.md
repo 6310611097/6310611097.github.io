@@ -13,7 +13,7 @@
 	</p>
 	
 	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src ="[https://photos.app.goo.gl/fhx5fgVbGfuPcsKDA](https://scontent.xx.fbcdn.net/v/t1.15752-9/300019123_1504377826641083_3241676476446398466_n.jpg?stp=dst-jpg_s206x206&_nc_cat=110&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGifoVJNt7naNoy4qbP_AU31z1QhD_n5J_XPVCEP-fkn4zR0hTeOvZZLhjxfx-gT1rr4RcAAGmB-uNOZdMQjhzF&_nc_ohc=eZKioOq5AngAX9wQyQt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJCXzUk9_hcwtVYlMu2IE48p8IyqV20ywfoIR25Ou9d1g&oe=632D8CE9)"
+	<img src ="https://scontent.fbkk13-3.fna.fbcdn.net/v/t1.15752-9/300019123_1504377826641083_3241676476446398466_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGifoVJNt7naNoy4qbP_AU31z1QhD_n5J_XPVCEP-fkn4zR0hTeOvZZLhjxfx-gT1rr4RcAAGmB-uNOZdMQjhzF&_nc_ohc=eZKioOq5AngAX-0cfd1&_nc_ht=scontent.fbkk13-3.fna&oh=03_AVJU15u4Uu-IDoxQXFGoKrP4rUkqj27Y6X-_QHFuzpdwAg&oe=632D8CE9"
 	style="width: 20%;text-align:center;"></p>
 	
 	<p style="font-size:105%;">
