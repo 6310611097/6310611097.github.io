@@ -13,7 +13,7 @@
 	</p>
 	
 	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src ="https://scontent.xx.fbcdn.net/v/t1.15752-9/300429606_3290895841176615_9042383243324327424_n.jpg?stp=dst-jpg_s417x417&_nc_cat=101&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGmPO6I6C-_OlhRXKn8UEr5j5AdQ5VG1eOPkB1DlUbV4xxpNMKW2tRQP06EX3o68-O_VwoJLW14aV_VqhbM1QiC&_nc_ohc=1lzVUQUmSZUAX8f5cfz&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIV-euBeHPvmf7T7Q9myFcPeEX9KlKBIC-ppamsCONGvQ&oe=632F36A2"
+	<img src ="https://photos.app.goo.gl/fhx5fgVbGfuPcsKDA"
 	style="width: 20%;text-align:center;"></p>
 	
 	<p style="font-size:105%;">
